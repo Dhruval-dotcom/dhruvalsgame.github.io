@@ -48,7 +48,7 @@
 }
 #button1{
 	position:absolute;
-	top:900px;
+	top:700px;
 	right:300px;
 		background-color: green;
 		color:white;
@@ -63,7 +63,7 @@
 }
 #button2{
 	position:absolute;
-	top:900px;
+	top:700px;
 	right:250px;
 		background-color: green;
 		color:white;
@@ -78,7 +78,7 @@
 }
 #button3{
 	position:absolute;
-	top:850px;
+	top:650px;
 	right:275px;
 		background-color: green;
 		color:white;
@@ -94,7 +94,7 @@
  
  #button4{
 	position:absolute;
-	top:950px;
+	top:850px;
 	right:275px;
 		background-color: green;
 		color:white;
