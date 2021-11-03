@@ -48,11 +48,11 @@
 }
 #button1{
 	position:absolute;
-	top:120%;
+	top:110%;
 	right:66%;
 		background-color: green;
 		color:white;
-		padding:6px 32px; 
+		padding:6px 50px; 
 		text-decoration:none;
 		display:inline-block;
 		font-size:18px;
