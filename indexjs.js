@@ -8,10 +8,10 @@ let speed=3;
 let score = 0;
 let lastPaintTime = 0;
 let snakeArr = [
-    {x: 13, y: 15}
+    {x: 4, y: 6}
 ];
 
-food = {x: 6, y: 7};
+food = {x: 3, y: 11};
 
 // Game Functions
 function main(ctime) {
@@ -46,7 +46,7 @@ function gameEngine(){
         musicSound.pause();
         inputDir =  {x: 0, y: 0}; 
         alert("Game Over. Press any key to play again!");
-        snakeArr = [{x: 13, y: 15}];
+        snakeArr = [{x: 4, y: 6}];
         musicSound.play();
         score = 0; 
     }
