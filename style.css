@@ -48,8 +48,8 @@
 }
 #button1{
 	position:absolute;
-	top:900px;
-	right:300px;
+	top:120%;
+	right:66%;
 		background-color: green;
 		color:white;
 		padding:6px 15px; 
@@ -63,8 +63,8 @@
 }
 #button2{
 	position:absolute;
-	top:900px;
-	right:250px;
+	top:120%;
+	right:33%;
 		background-color: green;
 		color:white;
 		padding:6px 15px; 
@@ -78,8 +78,8 @@
 }
 #button3{
 	position:absolute;
-	top:850px;
-	right:275px;
+	top:110%;
+	right:50%;
 		background-color: green;
 		color:white;
 		padding:6px 15px; 
@@ -94,8 +94,8 @@
  
  #button4{
 	position:absolute;
-	top:950px;
-	right:275px;
+	top:130%;
+	right:50%;
 		background-color: green;
 		color:white;
 		padding:6px 15px; 
