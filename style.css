@@ -52,7 +52,7 @@
 	right:66%;
 		background-color: green;
 		color:white;
-		padding:6px 40px; 
+		padding:10px 40px; 
 		text-decoration:none;
 		display:inline-block;
 		font-size:18px;
@@ -67,7 +67,7 @@
 	right:33%;
 		background-color: green;
 		color:white;
-		padding:6px 40px; 
+		padding:10px 40px; 
 		text-decoration:none;
 		display:inline-block;
 		font-size:18px;
@@ -78,11 +78,11 @@
 }
 #button3{
 	position:absolute;
-	top:80%;
+	top:90%;
 	right:50%;
 		background-color: green;
 		color:white;
-		padding:6px 40px; 
+		padding:10px 40px; 
 		text-decoration:none;
 		display:inline-block;
 		font-size:18px;
@@ -98,7 +98,7 @@
 	right:50%;
 		background-color: green;
 		color:white;
-		padding:6px 40px; 
+		padding:10px 40px; 
 		text-decoration:none;
 		display:inline-block;
 		font-size:18px;
