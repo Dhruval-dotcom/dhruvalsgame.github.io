@@ -48,11 +48,11 @@
 }
 #button1{
 	position:absolute;
-	top:110%;
+	top:100%;
 	right:66%;
 		background-color: green;
 		color:white;
-		padding:6px 50px; 
+		padding:6px 40px; 
 		text-decoration:none;
 		display:inline-block;
 		font-size:18px;
@@ -63,11 +63,11 @@
 }
 #button2{
 	position:absolute;
-	top:120%;
+	top:100%;
 	right:33%;
 		background-color: green;
 		color:white;
-		padding:6px 32px; 
+		padding:6px 40px; 
 		text-decoration:none;
 		display:inline-block;
 		font-size:18px;
@@ -78,11 +78,11 @@
 }
 #button3{
 	position:absolute;
-	top:110%;
+	top:80%;
 	right:50%;
 		background-color: green;
 		color:white;
-		padding:6px 32px; 
+		padding:6px 40px; 
 		text-decoration:none;
 		display:inline-block;
 		font-size:18px;
@@ -94,11 +94,11 @@
  
  #button4{
 	position:absolute;
-	top:130%;
+	top:110%;
 	right:50%;
 		background-color: green;
 		color:white;
-		padding:6px 32px; 
+		padding:6px 40px; 
 		text-decoration:none;
 		display:inline-block;
 		font-size:18px;
