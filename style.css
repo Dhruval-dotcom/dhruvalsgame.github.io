@@ -19,20 +19,20 @@
 	border:2px solid purple;
 	top: 9px;
 	right:200px;
-	font-size:39px;
+	font-size:25px;
 	font-weight: bold;
 	font-family: 'New Tegomin',serif;
 }
 
 #button1:hover,#button2:hover,#button3:hover,#button4:hover{
-background-color:2255ef;
+background-color: #2255ef;
 }
 #hiscoreBox{
 	position: absolute;
 	border:2px solid purple;
 	top: 90px;
 	right:200px;
-	font-size:39px;
+	font-size:25px;
 	font-weight: bold;
 	font-family: 'New Tegomin',serif;
 }
