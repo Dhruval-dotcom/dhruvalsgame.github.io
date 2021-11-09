@@ -120,16 +120,16 @@ background-color: #2255ef;
 	background-color:tan;
 	border:2px solid purple;
 	transform: scale(1.04);
-	border-radius:17px;
+	border-radius: 50%;
 }
 
 .snake{
 	background-color:blue;
 	border: .25vmin solid white;
-	border-radius: 17px;
+	border-radius: 50%;
 }
 .food{
 	background-color:orange;
 	border: .25vmin solid black;
-    border-radius:17px;
+    border-radius: 50%;
 }
